@@ -11,6 +11,17 @@
   "engines": {
     "vscode": "^1.72.0"
   },
+  "keywords": [
+    "themes",
+    "vscode",
+    "yzyer",
+    "pure",
+    "oled",
+    "black",
+    "dark",
+    "theme",
+    "dark theme"
+  ],
   "categories": [
     "Themes"
   ],
