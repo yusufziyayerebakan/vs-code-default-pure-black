@@ -19,7 +19,8 @@
     "statusBar.noFolderBackground": "#000000",
     "statusBarItem.remoteBackground": "#000000",
     "button.background": "#1c1c1c",
-    "menu.background": "#000000"
+    "menu.background": "#000000",
+    "editorRuler.foreground": "#1c1c1c"
   },
   "tokenColors": [
     {
