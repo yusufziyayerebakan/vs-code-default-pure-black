@@ -4,9 +4,9 @@
     "titleBar.activeBackground": "#000000",
     "titleBar.inactiveBackground": "#1c1c1c",
     "editor.background": "#000000",
-    "editor.foreground": "#eeffff",
+    "editor.foreground": "#868686",
     "sideBar.background": "#000000",
-    "sideBar.foreground": "#ffffff",
+    "sideBar.foreground": "#868686",
     "sideBar.border": "#1c1c1c",
     "sideBarSectionHeader.background": "#1c1c1c",
     "activityBarBadge.background": "#007acc",
@@ -15,12 +15,18 @@
     "editorGroupHeader.tabsBackground": "#000000",
     "tab.inactiveBackground": "#000000",
     "activityBar.background": "#000000",
+    "activityBar.foreground": "#868686",
     "statusBar.background": "#000000",
     "statusBar.noFolderBackground": "#000000",
     "statusBarItem.remoteBackground": "#000000",
+    "statusBar.foreground": "#868686",
     "button.background": "#1c1c1c",
     "menu.background": "#000000",
-    "editorRuler.foreground": "#1c1c1c"
+    "editorRuler.foreground": "#1c1c1c",
+    "foreground": "#868686",
+    "sideBarSectionHeader.foreground": "#9c9c9c",
+    "button.foreground": "#868686",
+    "terminal.foreground": "#868686"
   },
   "tokenColors": [
     {
