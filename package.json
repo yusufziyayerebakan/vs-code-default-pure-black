@@ -1,0 +1,26 @@
+{
+  "name": "vs-code-pure-black",
+  "displayName": "vs-code-pure-black",
+  "description": "",
+  "publisher": "yzyer",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "yzyer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yzyer-color-theme.json"
+      }
+    ]
+  }
+}
