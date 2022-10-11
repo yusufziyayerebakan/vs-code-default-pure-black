@@ -19,6 +19,7 @@
     "statusBar.background": "#000000",
     "statusBar.noFolderBackground": "#000000",
     "statusBarItem.remoteBackground": "#000000",
+    "statusBar.debuggingForeground": "#ffffff",
     "statusBar.foreground": "#868686",
     "button.background": "#1c1c1c",
     "menu.background": "#000000",
