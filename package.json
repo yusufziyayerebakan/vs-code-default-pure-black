@@ -1,7 +1,8 @@
 {
   "name": "vs-code-pure-black",
-  "displayName": "vs-code-pure-black",
-  "description": "",
+  "displayName": "Dark (Pure Black) Theme - OLED - yzyer",
+  "description": "Pure black background theme for OLED screens.",
+  "icon": "images/icon.jpg",
   "publisher": "yzyer",
   "repository": {
     "type": "git",
